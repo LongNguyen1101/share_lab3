@@ -1,0 +1,127 @@
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.MainForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.Task3Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.TCPClientForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.TCPServerForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.MultiTCPClientForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.MultiTCPServerForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.Task4Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.csproj.CopyComplete
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MainForm.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPClientForm.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPServerForm.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task1Form.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task3Form.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task4Form.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPClientForm.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPServerForm.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPClientForm.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPServerForm.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CopyComplete
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.pdb
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task2Form.resources
+C:\Users\PC MSI\source\repos\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPTelnetServer.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.UDPClientForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.UDPServerForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.Task2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 3\LAB3\LAB3\obj\Debug\LAB3.TCPTelnetServer.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MainForm.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPClientForm.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPServerForm.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task2Form.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task3Form.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task4Form.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPClientForm.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPServerForm.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPTelnetServer.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPClientForm.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPServerForm.resources
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CopyComplete
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\Long Nguyen\Desktop\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.pdb
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MainForm.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPClientForm.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPServerForm.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task1Form.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task2Form.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task3Form.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task4Form.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPClientForm.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPServerForm.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPTelnetServer.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPClientForm.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPServerForm.resources
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CopyComplete
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.pdb
+C:\Users\PC MSI\Documents\UIT documents\LTMCB\Practice\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.PrivateChatForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MainForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPClientForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.MultiTCPServerForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.PrivateChatForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task3Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.Task4Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPClientForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPServerForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.TCPTelnetServer.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPClientForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.UDPServerForm.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.csproj.CopyComplete
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21521929_21522304\LAB3\LAB3\obj\Debug\LAB3.pdb
